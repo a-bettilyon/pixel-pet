@@ -9,7 +9,8 @@
 <br clear="left">
 <br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/c41ce84d-ba9c-4230-9c09-b2ecab66048d">
+<img width="800" alt="PixelPetV3Disassembled3" src="https://github.com/user-attachments/assets/797398da-ae42-46b5-87f9-d6964485edd0" />
+
 
 <br>
 
