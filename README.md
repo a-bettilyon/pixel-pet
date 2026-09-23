@@ -1,6 +1,7 @@
 # pixel-pet
 
-<img width="60" height="60" alt="PixelPetLogoFullColor" src="https://github.com/user-attachments/assets/a35fa819-2cca-45dd-a6b2-a39c932a43d9" align="left">
+<img width="100" height="100" alt="PixelPetLogoFullColor" src="https://github.com/user-attachments/assets/a35fa819-2cca-45dd-a6b2-a39c932a43d9" align="left">
+
 
 ⚠️ Project Status: Active Development/Work in Progress
 
