@@ -6,8 +6,7 @@ KiCad project for the Pixel Pet custom PCB, an ESP32-S3-based board with display
 
 ## Opening the project
 
-Requires [KiCad](https://www.kicad.org/) (developed in v8). Custom libraries are referenced via `${KIPRJMOD}` relative paths, so the project should open with all symbols/footprints resolved as long as the folder structure above is preserved — no manual library setup needed.
-
+Requires [KiCad](https://www.kicad.org/) (developed in v8). Multiple custom part libraries are used, see  `/libraries`.
 ## Key design notes
 
 - ESP32-S3-WROOM-1 module, 4-layer board
