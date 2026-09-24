@@ -16,4 +16,4 @@ Requires [KiCad](https://www.kicad.org/) (developed in v8). Multiple custom part
 
 ## Gerbers / BOM freshness
 
-Files in `/gerbers` and `bom.csv` are re-exported directly from the current `.kicad_pcb`/`.kicad_sch` — if you're building from this repo, always pull these rather than any older exports that may exist elsewhere in project history.
+Files in `/gerbers` and `bom.csv` are exported directly from the current `.kicad_pcb`/`.kicad_sch`. If you're building from this repo, pull these rather than any older exports that may exist elsewhere in project history.
