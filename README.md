@@ -1,5 +1,3 @@
-# pixel-pet
-
 <img width="100" alt="PixelPetLogoFullColor" src="https://github.com/user-attachments/assets/a35fa819-2cca-45dd-a6b2-a39c932a43d9" align="left" >
 
 <br>
@@ -9,7 +7,7 @@
 <br clear="left">
 <br>
 
-<img width="800" alt="PixelPetV3Disassembled3" src="https://github.com/user-attachments/assets/797398da-ae42-46b5-87f9-d6964485edd0" />
+<img width="800" alt="PixelPetV3Disassembled4" src="https://github.com/user-attachments/assets/d2b985fa-8328-4e24-9be3-38506329eeae" />
 
 
 <br>
